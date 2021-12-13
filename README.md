@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushNigam11
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning REACT JS and REACT Native
-- 💞️ I’m looking to collaborate on web devops projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me anigam629@gmail.com
 
 <!---
