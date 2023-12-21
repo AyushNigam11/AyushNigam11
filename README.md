@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Nigam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpriyamondal.hashnode.dev%2Fcreate-your-own-gifs&psig=AOvVaw2kbUzNQiemB0UlXiJIz0TM&ust=1703237452625000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDQvZCcoIMDFQAAAAAdAAAAABAY”/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushnigam11&label=Profile%20views&color=0e75b6&style=flat" alt="ayushnigam11" /> </p>
 
