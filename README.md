@@ -129,7 +129,7 @@
 
 </div>
 
-### Github Language Stats
+## Github Tech Stats
 
 ![ayushnigam11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
