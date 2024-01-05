@@ -111,7 +111,7 @@
 
 ## My Skyline 
 
-<img src="https://github.com/ayushnigam11/ayushnigam11/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">
+<img src="https://github.com/AyushNigam11/AyushNigam11/blob/main/ezgif-5-b68ca77fd2.gif" height="350" width="800">
 
 ## Analysis
 
