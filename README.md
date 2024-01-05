@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Chat-GPT Clone.   
   
 
-- 🌱 I’m currently learning AWS and Kubernetes  
+- 🌱 I’m currently learning Azure and Docker.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
