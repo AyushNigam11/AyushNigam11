@@ -109,10 +109,16 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayushnigam11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=ayushnigam11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div>
 
 
+![ayushnigam11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushnigam11&theme=vue-dark&hide_border=true)
+![ayushnigam11's Stats](https://github-readme-stats.vercel.app/api?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+</div>
+
+### Github Language Stats
+
+![ayushnigam11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
