@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </div>  
   
 
@@ -19,6 +19,8 @@
   
 
 <br/>  
+
+
 
 
 ## My Skill Set  
@@ -114,12 +116,16 @@
 
 ![ayushnigam11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushnigam11&theme=vue-dark&hide_border=true)
 ![ayushnigam11's Stats](https://github-readme-stats.vercel.app/api?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 </div>
 
 ### Github Language Stats
 
 ![ayushnigam11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 
 ----
