@@ -10,7 +10,6 @@
 <br/>
   
 - 🔭 I’m currently working on Chat-GPT Clone.
-- 
   
 
 - 🌱 I’m currently learning Azure and Docker.  
