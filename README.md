@@ -8,7 +8,7 @@
 
 <br/>
   
-- 🔭 I’m currently working on Streamify.   
+- 🔭 I’m currently working on Chat-GPT Clone.   
   
 
 - 🌱 I’m currently learning AWS and Kubernetes  
