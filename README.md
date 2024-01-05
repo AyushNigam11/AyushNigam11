@@ -109,6 +109,21 @@
 
 <br/>  
 
+## My Skyline 
+
+<img src="https://github.com/ayushnigam11/ayushnigam11/blob/master/.github/workflows/ezgif.com-gif-maker.gif" height="350" width="800">
+
+## Analysis
+
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ayushnigam11&theme=react-dark&hide_border=true&area=true)
+
+
+ 
+  
+
+
 
 ## Github Stats  
 <div>
