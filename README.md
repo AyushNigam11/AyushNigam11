@@ -14,15 +14,15 @@
 - 🌱 I’m currently learning Azure and Docker.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.   
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.  
   
 
 <br/>  
 
-## My Skill Set  
+## My Tech Stack 
 <table><tr><td valign="top" width="33%">
 
 
