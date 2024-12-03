@@ -10,13 +10,13 @@
 
 <br/>
   
-- 🔭 I’m currently working on Chat-GPT Clone.
+- 🔭 I’m currently working on Feast App.
   
 
-- 🌱 I’m currently learning Azure and Docker.  
+- 🌱 I’m currently learning AWS and MEAN.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies.   
+- ❓ Ask me about anything related to MEAN stack and related technologies.   
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
