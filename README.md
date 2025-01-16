@@ -93,34 +93,4 @@
   
 
 <br/>  
-
-## My Skyline 
-
-<img src="https://github.com/AyushNigam11/AyushNigam11/blob/main/ezgif-5-b68ca77fd2.gif" height="350" width="800">
-
-## Analysis
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=ayushnigam11&theme=react-dark&hide_border=true&area=true)
-
-
-## Github Stats  
-<div>
-
-
-![ayushnigam11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushnigam11&theme=vue-dark&hide_border=true)
-![ayushnigam11's Stats](https://github-readme-stats.vercel.app/api?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-</div>
-
-## Github Tech Stats
-
-![ayushnigam11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnigam11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
-
-
 ----
